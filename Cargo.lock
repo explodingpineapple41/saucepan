@@ -1016,6 +1016,7 @@ name = "saucepan"
 version = "0.1.0"
 dependencies = [
  "druid",
+ "toml",
 ]
 
 [[package]]
