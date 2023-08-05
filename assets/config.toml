@@ -1,7 +1,23 @@
 [bindings]
-up = "w"
-left = "a"
-down = "s"
-right = "d"
+up = "o"
+left = "k"
+down = "l"
+right = ";"
 insert = "i"
-normal = "E"
+append = "p"
+normal = "{ESC}"
+command = "/"
+
+[colors]
+
+[colors.editor]
+
+[colors.editor.window]
+background = "#282a3d"
+cursor = "#4d6b99"
+highlight = "#294241"
+
+[colors.editor.text]
+unselected = "#adadad"
+selected = "#ffffff"
+
